@@ -1,0 +1,962 @@
+[
+  {
+    "customer_id": 1,
+    "first_name": "Sophie",
+    "last_name": "Dupont",
+    "email": "customer_1@ecommerce.fr",
+    "signup_date": "2025-06-05",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": 2,
+    "first_name": "Thomas",
+    "last_name": "Bertrand",
+    "email": "customer_2@ecommerce.fr",
+    "signup_date": "2024-08-04",
+    "city": "Bordeaux"
+  },
+  {
+    "customer_id": 3,
+    "first_name": "Marie",
+    "last_name": "Lefebvre",
+    "email": "customer_3@ecommerce.fr",
+    "signup_date": "2024-06-18",
+    "city": "Lille"
+  },
+  {
+    "customer_id": 4,
+    "first_name": "Olivier",
+    "last_name": "Bernard",
+    "email": "customer_4@ecommerce.fr",
+    "signup_date": "2025-12-16",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 5,
+    "first_name": "Emma",
+    "last_name": "Thomas",
+    "email": "customer_5@ecommerce.fr",
+    "signup_date": "2025-01-22",
+    "city": "Reims"
+  },
+  {
+    "customer_id": 6,
+    "first_name": "Wenya",
+    "last_name": "Lefebvre",
+    "email": "customer_6@ecommerce.fr",
+    "signup_date": "2024-11-01",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": 7,
+    "first_name": "Université",
+    "last_name": "Robert",
+    "email": "customer_7@ecommerce.fr",
+    "signup_date": "2025-07-05",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 8,
+    "first_name": "Luc",
+    "last_name": "Lefebvre",
+    "email": "customer_8@ecommerce.fr",
+    "signup_date": "2025-01-05",
+    "city": "Reims"
+  },
+  {
+    "customer_id": 9,
+    "first_name": "Thomas",
+    "last_name": "Morel",
+    "email": "customer_9@ecommerce.fr",
+    "signup_date": "2025-04-12",
+    "city": "Bordeaux"
+  },
+  {
+    "customer_id": 10,
+    "first_name": "Raphaël",
+    "last_name": "Roux",
+    "email": "customer_10@ecommerce.fr",
+    "signup_date": "2025-10-14",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": 11,
+    "first_name": "Jean",
+    "last_name": "Robert",
+    "email": "customer_11@ecommerce.fr",
+    "signup_date": "2024-07-17",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": 12,
+    "first_name": "Patricia",
+    "last_name": "Bernard",
+    "email": "customer_12@ecommerce.fr",
+    "signup_date": "2025-09-18",
+    "city": "Le Havre"
+  },
+  {
+    "customer_id": 13,
+    "first_name": "Thomas",
+    "last_name": "Roux",
+    "email": "customer_13@ecommerce.fr",
+    "signup_date": "2025-11-19",
+    "city": "Le Havre"
+  },
+  {
+    "customer_id": 14,
+    "first_name": "David",
+    "last_name": "Laurent",
+    "email": "customer_14@ecommerce.fr",
+    "signup_date": "2025-09-16",
+    "city": "Lille"
+  },
+  {
+    "customer_id": 15,
+    "first_name": "Emma",
+    "last_name": "Roux",
+    "email": "customer_15@ecommerce.fr",
+    "signup_date": "2024-07-15",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": 16,
+    "first_name": "Wenya",
+    "last_name": "Lefebvre",
+    "email": "customer_16@ecommerce.fr",
+    "signup_date": "2024-09-09",
+    "city": "Rennes"
+  },
+  {
+    "customer_id": 17,
+    "first_name": "David",
+    "last_name": "Vincent",
+    "email": "customer_17@ecommerce.fr",
+    "signup_date": "2025-01-21",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 18,
+    "first_name": "Hélène",
+    "last_name": "David",
+    "email": "customer_18@ecommerce.fr",
+    "signup_date": "2025-10-16",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 19,
+    "first_name": "Karine",
+    "last_name": "Roux",
+    "email": "customer_19@ecommerce.fr",
+    "signup_date": "2024-12-02",
+    "city": "Rennes"
+  },
+  {
+    "customer_id": 20,
+    "first_name": "David",
+    "last_name": "Moreau",
+    "email": "customer_20@ecommerce.fr",
+    "signup_date": "2024-07-29",
+    "city": "Nice"
+  },
+  {
+    "customer_id": 21,
+    "first_name": "Alice",
+    "last_name": "Laurent",
+    "email": "customer_21@ecommerce.fr",
+    "signup_date": "2025-09-20",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 22,
+    "first_name": "Clara",
+    "last_name": "Martin",
+    "email": "customer_22@ecommerce.fr",
+    "signup_date": "2024-06-23",
+    "city": "Nantes"
+  },
+  {
+    "customer_id": 23,
+    "first_name": "Emma",
+    "last_name": "Laurent",
+    "email": "customer_23@ecommerce.fr",
+    "signup_date": "2026-01-13",
+    "city": "Lille"
+  },
+  {
+    "customer_id": 24,
+    "first_name": "Raphaël",
+    "last_name": "Robert",
+    "email": "customer_24@ecommerce.fr",
+    "signup_date": "2024-12-08",
+    "city": "Bordeaux"
+  },
+  {
+    "customer_id": 25,
+    "first_name": "Quentin",
+    "last_name": "Laurent",
+    "email": "customer_25@ecommerce.fr",
+    "signup_date": "2024-10-20",
+    "city": "Le Havre"
+  },
+  {
+    "customer_id": 26,
+    "first_name": "Alice",
+    "last_name": "Moreau",
+    "email": "customer_26@ecommerce.fr",
+    "signup_date": "2025-05-27",
+    "city": "Paris"
+  },
+  {
+    "customer_id": 27,
+    "first_name": "Marie",
+    "last_name": "Fournier",
+    "email": "customer_27@ecommerce.fr",
+    "signup_date": "2024-10-03",
+    "city": "Strasbourg"
+  },
+  {
+    "customer_id": 28,
+    "first_name": "Bob",
+    "last_name": "Robert",
+    "email": "customer_28@ecommerce.fr",
+    "signup_date": "2025-02-23",
+    "city": "Nantes"
+  },
+  {
+    "customer_id": 29,
+    "first_name": "Clara",
+    "last_name": "Bertrand",
+    "email": "customer_29@ecommerce.fr",
+    "signup_date": "2024-10-12",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": 30,
+    "first_name": "David",
+    "last_name": "Lefebvre",
+    "email": "customer_30@ecommerce.fr",
+    "signup_date": "2025-03-25",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 31,
+    "first_name": "Nicolas",
+    "last_name": "Garcia",
+    "email": "customer_31@ecommerce.fr",
+    "signup_date": "2026-03-15",
+    "city": "Bordeaux"
+  },
+  {
+    "customer_id": 32,
+    "first_name": "François",
+    "last_name": "Bertrand",
+    "email": "customer_32@ecommerce.fr",
+    "signup_date": "2024-11-19",
+    "city": "Nice"
+  },
+  {
+    "customer_id": 33,
+    "first_name": "Zoé",
+    "last_name": "Michel",
+    "email": "customer_33@ecommerce.fr",
+    "signup_date": "2024-12-29",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": 34,
+    "first_name": "Thomas",
+    "last_name": "Roux",
+    "email": "customer_34@ecommerce.fr",
+    "signup_date": "2025-02-08",
+    "city": "Nantes"
+  },
+  {
+    "customer_id": 35,
+    "first_name": "Emma",
+    "last_name": "Durand",
+    "email": "customer_35@ecommerce.fr",
+    "signup_date": "2025-10-30",
+    "city": "Paris"
+  },
+  {
+    "customer_id": 36,
+    "first_name": "Raphaël",
+    "last_name": "Vincent",
+    "email": "customer_36@ecommerce.fr",
+    "signup_date": "2025-02-11",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": 37,
+    "first_name": "Hélène",
+    "last_name": "Robert",
+    "email": "customer_37@ecommerce.fr",
+    "signup_date": "2025-07-12",
+    "city": "Strasbourg"
+  },
+  {
+    "customer_id": 38,
+    "first_name": "Quentin",
+    "last_name": "Roux",
+    "email": "customer_38@ecommerce.fr",
+    "signup_date": "2025-01-26",
+    "city": "Rennes"
+  },
+  {
+    "customer_id": 39,
+    "first_name": "Zoé",
+    "last_name": "Dupont",
+    "email": "customer_39@ecommerce.fr",
+    "signup_date": "2024-08-06",
+    "city": "Rennes"
+  },
+  {
+    "customer_id": 40,
+    "first_name": "Bob",
+    "last_name": "Robert",
+    "email": "customer_40@ecommerce.fr",
+    "signup_date": "2025-10-18",
+    "city": "Rennes"
+  },
+  {
+    "customer_id": 41,
+    "first_name": "Gérard",
+    "last_name": "Vincent",
+    "email": "customer_41@ecommerce.fr",
+    "signup_date": "2024-06-24",
+    "city": "Le Havre"
+  },
+  {
+    "customer_id": 42,
+    "first_name": "Université",
+    "last_name": "Robert",
+    "email": "customer_42@ecommerce.fr",
+    "signup_date": "2025-12-27",
+    "city": "Paris"
+  },
+  {
+    "customer_id": 43,
+    "first_name": "Nicolas",
+    "last_name": "Dupont",
+    "email": "customer_43@ecommerce.fr",
+    "signup_date": "2024-09-14",
+    "city": "Nantes"
+  },
+  {
+    "customer_id": 44,
+    "first_name": "Marie",
+    "last_name": "Laurent",
+    "email": "customer_44@ecommerce.fr",
+    "signup_date": "2024-07-18",
+    "city": "Lille"
+  },
+  {
+    "customer_id": 45,
+    "first_name": "Alice",
+    "last_name": "Fournier",
+    "email": "customer_45@ecommerce.fr",
+    "signup_date": "2025-11-03",
+    "city": "Rennes"
+  },
+  {
+    "customer_id": 46,
+    "first_name": "Luc",
+    "last_name": "Thomas",
+    "email": "customer_46@ecommerce.fr",
+    "signup_date": "2026-02-28",
+    "city": "Toulon"
+  },
+  {
+    "customer_id": 47,
+    "first_name": "Sophie",
+    "last_name": "Petit",
+    "email": "customer_47@ecommerce.fr",
+    "signup_date": "2025-11-20",
+    "city": "Nantes"
+  },
+  {
+    "customer_id": 48,
+    "first_name": "Bob",
+    "last_name": "Fournier",
+    "email": "customer_48@ecommerce.fr",
+    "signup_date": "2025-09-06",
+    "city": "Nice"
+  },
+  {
+    "customer_id": 49,
+    "first_name": "Raphaël",
+    "last_name": "Michel",
+    "email": "customer_49@ecommerce.fr",
+    "signup_date": "2024-09-22",
+    "city": "Paris"
+  },
+  {
+    "customer_id": 50,
+    "first_name": "Luc",
+    "last_name": "Bernard",
+    "email": "customer_50@ecommerce.fr",
+    "signup_date": "2024-12-26",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 51,
+    "first_name": "Yannick",
+    "last_name": "Dupont",
+    "email": "customer_51@ecommerce.fr",
+    "signup_date": "2026-02-11",
+    "city": "Lille"
+  },
+  {
+    "customer_id": 52,
+    "first_name": "Jean",
+    "last_name": "Vincent",
+    "email": "customer_52@ecommerce.fr",
+    "signup_date": "2024-08-02",
+    "city": "Toulon"
+  },
+  {
+    "customer_id": 53,
+    "first_name": "Yannick",
+    "last_name": "Fournier",
+    "email": "customer_53@ecommerce.fr",
+    "signup_date": "2025-12-18",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": 54,
+    "first_name": "Xavier",
+    "last_name": "Bernard",
+    "email": "customer_54@ecommerce.fr",
+    "signup_date": "2025-09-08",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": 55,
+    "first_name": "Marie",
+    "last_name": "Simon",
+    "email": "customer_55@ecommerce.fr",
+    "signup_date": "2025-12-22",
+    "city": "Paris"
+  },
+  {
+    "customer_id": 56,
+    "first_name": "Karine",
+    "last_name": "David",
+    "email": "customer_56@ecommerce.fr",
+    "signup_date": "2025-03-08",
+    "city": "Lille"
+  },
+  {
+    "customer_id": 57,
+    "first_name": "Gérard",
+    "last_name": "Vincent",
+    "email": "customer_57@ecommerce.fr",
+    "signup_date": "2025-04-05",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 58,
+    "first_name": "Jean",
+    "last_name": "Durand",
+    "email": "customer_58@ecommerce.fr",
+    "signup_date": "2025-05-15",
+    "city": "Toulon"
+  },
+  {
+    "customer_id": 59,
+    "first_name": "Thomas",
+    "last_name": "Dupont",
+    "email": "customer_59@ecommerce.fr",
+    "signup_date": "2025-02-11",
+    "city": "Reims"
+  },
+  {
+    "customer_id": 60,
+    "first_name": "David",
+    "last_name": "Petit",
+    "email": "customer_60@ecommerce.fr",
+    "signup_date": "2026-03-13",
+    "city": "Rennes"
+  },
+  {
+    "customer_id": 61,
+    "first_name": "Wenya",
+    "last_name": "Roux",
+    "email": "customer_61@ecommerce.fr",
+    "signup_date": "2024-12-29",
+    "city": "Nice"
+  },
+  {
+    "customer_id": 62,
+    "first_name": "Université",
+    "last_name": "Garcia",
+    "email": "customer_62@ecommerce.fr",
+    "signup_date": "2024-07-03",
+    "city": "Le Havre"
+  },
+  {
+    "customer_id": 63,
+    "first_name": "Karine",
+    "last_name": "Moreau",
+    "email": "customer_63@ecommerce.fr",
+    "signup_date": "2025-09-25",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": 64,
+    "first_name": "Marie",
+    "last_name": "David",
+    "email": "customer_64@ecommerce.fr",
+    "signup_date": "2026-04-05",
+    "city": "Reims"
+  },
+  {
+    "customer_id": 65,
+    "first_name": "Wenya",
+    "last_name": "Garcia",
+    "email": "customer_65@ecommerce.fr",
+    "signup_date": "2026-02-28",
+    "city": "Bordeaux"
+  },
+  {
+    "customer_id": 66,
+    "first_name": "Thomas",
+    "last_name": "Robert",
+    "email": "customer_66@ecommerce.fr",
+    "signup_date": "2025-10-30",
+    "city": "Rennes"
+  },
+  {
+    "customer_id": 67,
+    "first_name": "Yannick",
+    "last_name": "Thomas",
+    "email": "customer_67@ecommerce.fr",
+    "signup_date": "2025-05-01",
+    "city": "Paris"
+  },
+  {
+    "customer_id": 68,
+    "first_name": "Zoé",
+    "last_name": "Robert",
+    "email": "customer_68@ecommerce.fr",
+    "signup_date": "2025-04-16",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": 69,
+    "first_name": "Olivier",
+    "last_name": "Lefevre",
+    "email": "customer_69@ecommerce.fr",
+    "signup_date": "2025-06-27",
+    "city": "Reims"
+  },
+  {
+    "customer_id": 70,
+    "first_name": "Marie",
+    "last_name": "Dupont",
+    "email": "customer_70@ecommerce.fr",
+    "signup_date": "2026-05-04",
+    "city": "Toulon"
+  },
+  {
+    "customer_id": 71,
+    "first_name": "Zoé",
+    "last_name": "Moreau",
+    "email": "customer_71@ecommerce.fr",
+    "signup_date": "2024-08-25",
+    "city": "Nantes"
+  },
+  {
+    "customer_id": 72,
+    "first_name": "Emma",
+    "last_name": "Moreau",
+    "email": "customer_72@ecommerce.fr",
+    "signup_date": "2024-12-16",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": 73,
+    "first_name": "Bob",
+    "last_name": "Bertrand",
+    "email": "customer_73@ecommerce.fr",
+    "signup_date": "2024-06-09",
+    "city": "Reims"
+  },
+  {
+    "customer_id": 74,
+    "first_name": "Bob",
+    "last_name": "Laurent",
+    "email": "customer_74@ecommerce.fr",
+    "signup_date": "2024-07-04",
+    "city": "Reims"
+  },
+  {
+    "customer_id": 75,
+    "first_name": "Hélène",
+    "last_name": "Morel",
+    "email": "customer_75@ecommerce.fr",
+    "signup_date": "2026-02-27",
+    "city": "Nantes"
+  },
+  {
+    "customer_id": 76,
+    "first_name": "David",
+    "last_name": "David",
+    "email": "customer_76@ecommerce.fr",
+    "signup_date": "2026-02-06",
+    "city": "Lille"
+  },
+  {
+    "customer_id": 77,
+    "first_name": "Karine",
+    "last_name": "Lefebvre",
+    "email": "customer_77@ecommerce.fr",
+    "signup_date": "2025-11-30",
+    "city": "Strasbourg"
+  },
+  {
+    "customer_id": 78,
+    "first_name": "Clara",
+    "last_name": "Roux",
+    "email": "customer_78@ecommerce.fr",
+    "signup_date": "2025-01-13",
+    "city": "Bordeaux"
+  },
+  {
+    "customer_id": 79,
+    "first_name": "Alice",
+    "last_name": "Laurent",
+    "email": "customer_79@ecommerce.fr",
+    "signup_date": "2024-10-10",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": 80,
+    "first_name": "Thomas",
+    "last_name": "Durand",
+    "email": "customer_80@ecommerce.fr",
+    "signup_date": "2026-04-15",
+    "city": "Strasbourg"
+  },
+  {
+    "customer_id": 81,
+    "first_name": "Isabelle",
+    "last_name": "Roux",
+    "email": "customer_81@ecommerce.fr",
+    "signup_date": "2025-02-17",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": 82,
+    "first_name": "Gérard",
+    "last_name": "Roux",
+    "email": "customer_82@ecommerce.fr",
+    "signup_date": "2024-09-15",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": 83,
+    "first_name": "Yannick",
+    "last_name": "Michel",
+    "email": "customer_83@ecommerce.fr",
+    "signup_date": "2024-08-06",
+    "city": "Strasbourg"
+  },
+  {
+    "customer_id": 84,
+    "first_name": "Nicolas",
+    "last_name": "Dupont",
+    "email": "customer_84@ecommerce.fr",
+    "signup_date": "2024-07-04",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": 85,
+    "first_name": "Karine",
+    "last_name": "Roux",
+    "email": "customer_85@ecommerce.fr",
+    "signup_date": "2025-08-01",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": 86,
+    "first_name": "Yannick",
+    "last_name": "Petit",
+    "email": "customer_86@ecommerce.fr",
+    "signup_date": "2025-05-07",
+    "city": "Le Havre"
+  },
+  {
+    "customer_id": 87,
+    "first_name": "Thomas",
+    "last_name": "Petit",
+    "email": "customer_87@ecommerce.fr",
+    "signup_date": "2024-07-25",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": 88,
+    "first_name": "Luc",
+    "last_name": "Fournier",
+    "email": "customer_88@ecommerce.fr",
+    "signup_date": "2026-04-12",
+    "city": "Toulon"
+  },
+  {
+    "customer_id": 89,
+    "first_name": "David",
+    "last_name": "Petit",
+    "email": "customer_89@ecommerce.fr",
+    "signup_date": "2024-07-05",
+    "city": "Strasbourg"
+  },
+  {
+    "customer_id": 90,
+    "first_name": "Victor",
+    "last_name": "Martin",
+    "email": "customer_90@ecommerce.fr",
+    "signup_date": "2026-05-06",
+    "city": "Lille"
+  },
+  {
+    "customer_id": 91,
+    "first_name": "Quentin",
+    "last_name": "Petit",
+    "email": "customer_91@ecommerce.fr",
+    "signup_date": "2025-12-09",
+    "city": "Le Havre"
+  },
+  {
+    "customer_id": 92,
+    "first_name": "Xavier",
+    "last_name": "Thomas",
+    "email": "customer_92@ecommerce.fr",
+    "signup_date": "2025-01-09",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 93,
+    "first_name": "Olivier",
+    "last_name": "Simon",
+    "email": "customer_93@ecommerce.fr",
+    "signup_date": "2026-03-21",
+    "city": "Reims"
+  },
+  {
+    "customer_id": 94,
+    "first_name": "Marie",
+    "last_name": "Simon",
+    "email": "customer_94@ecommerce.fr",
+    "signup_date": "2026-02-07",
+    "city": "Rennes"
+  },
+  {
+    "customer_id": 95,
+    "first_name": "Gérard",
+    "last_name": "Lefebvre",
+    "email": "customer_95@ecommerce.fr",
+    "signup_date": "2024-12-25",
+    "city": "Paris"
+  },
+  {
+    "customer_id": 96,
+    "first_name": "Olivier",
+    "last_name": "Dupont",
+    "email": "customer_96@ecommerce.fr",
+    "signup_date": "2024-09-17",
+    "city": "Le Havre"
+  },
+  {
+    "customer_id": 97,
+    "first_name": "Sophie",
+    "last_name": "Petit",
+    "email": "customer_97@ecommerce.fr",
+    "signup_date": "2024-09-23",
+    "city": "Bordeaux"
+  },
+  {
+    "customer_id": 98,
+    "first_name": "David",
+    "last_name": "Durand",
+    "email": "customer_98@ecommerce.fr",
+    "signup_date": "2025-09-16",
+    "city": "Reims"
+  },
+  {
+    "customer_id": 99,
+    "first_name": "Luc",
+    "last_name": "Lefevre",
+    "email": "customer_99@ecommerce.fr",
+    "signup_date": "2025-10-13",
+    "city": "Nantes"
+  },
+  {
+    "customer_id": 100,
+    "first_name": "Bob",
+    "last_name": "Lefevre",
+    "email": "customer_100@ecommerce.fr",
+    "signup_date": "2026-03-06",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": 101,
+    "first_name": "Thomas",
+    "last_name": "Robert",
+    "email": "customer_101@ecommerce.fr",
+    "signup_date": "2024-10-16",
+    "city": "Rennes"
+  },
+  {
+    "customer_id": 102,
+    "first_name": "Sophie",
+    "last_name": "David",
+    "email": "customer_102@ecommerce.fr",
+    "signup_date": "2024-12-08",
+    "city": "Le Havre"
+  },
+  {
+    "customer_id": 103,
+    "first_name": "Xavier",
+    "last_name": "Michel",
+    "email": "customer_103@ecommerce.fr",
+    "signup_date": "2025-05-20",
+    "city": "Lille"
+  },
+  {
+    "customer_id": 104,
+    "first_name": "Karine",
+    "last_name": "Lefevre",
+    "email": "customer_104@ecommerce.fr",
+    "signup_date": "2025-11-18",
+    "city": "Toulouse"
+  },
+  {
+    "customer_id": 105,
+    "first_name": "François",
+    "last_name": "Laurent",
+    "email": "customer_105@ecommerce.fr",
+    "signup_date": "2024-08-05",
+    "city": "Paris"
+  },
+  {
+    "customer_id": 106,
+    "first_name": "Gérard",
+    "last_name": "Laurent",
+    "email": "customer_106@ecommerce.fr",
+    "signup_date": "2025-12-03",
+    "city": "Marseille"
+  },
+  {
+    "customer_id": 107,
+    "first_name": "Raphaël",
+    "last_name": "Bertrand",
+    "email": "customer_107@ecommerce.fr",
+    "signup_date": "2026-02-19",
+    "city": "Nice"
+  },
+  {
+    "customer_id": 108,
+    "first_name": "Thomas",
+    "last_name": "Durand",
+    "email": "customer_108@ecommerce.fr",
+    "signup_date": "2024-07-20",
+    "city": "Toulon"
+  },
+  {
+    "customer_id": 109,
+    "first_name": "Victor",
+    "last_name": "Vincent",
+    "email": "customer_109@ecommerce.fr",
+    "signup_date": "2024-11-01",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 110,
+    "first_name": "Olivier",
+    "last_name": "Durand",
+    "email": "customer_110@ecommerce.fr",
+    "signup_date": "2025-11-21",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 111,
+    "first_name": "Alice",
+    "last_name": "Vincent",
+    "email": "customer_111@ecommerce.fr",
+    "signup_date": "2026-03-20",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 112,
+    "first_name": "Raphaël",
+    "last_name": "Petit",
+    "email": "customer_112@ecommerce.fr",
+    "signup_date": "2025-11-25",
+    "city": "Le Havre"
+  },
+  {
+    "customer_id": 113,
+    "first_name": "Sophie",
+    "last_name": "Simon",
+    "email": "customer_113@ecommerce.fr",
+    "signup_date": "2024-10-03",
+    "city": "Lyon"
+  },
+  {
+    "customer_id": 114,
+    "first_name": "Marie",
+    "last_name": "Durand",
+    "email": "customer_114@ecommerce.fr",
+    "signup_date": "2025-05-02",
+    "city": "Nantes"
+  },
+  {
+    "customer_id": 115,
+    "first_name": "Bob",
+    "last_name": "Lefevre",
+    "email": "customer_115@ecommerce.fr",
+    "signup_date": "2024-10-08",
+    "city": "Rennes"
+  },
+  {
+    "customer_id": 116,
+    "first_name": "Alice",
+    "last_name": "Durand",
+    "email": "customer_116@ecommerce.fr",
+    "signup_date": "2026-02-02",
+    "city": "Saint-Étienne"
+  },
+  {
+    "customer_id": 117,
+    "first_name": "Bob",
+    "last_name": "Petit",
+    "email": "customer_117@ecommerce.fr",
+    "signup_date": "2026-03-22",
+    "city": "Paris"
+  },
+  {
+    "customer_id": 118,
+    "first_name": "Victor",
+    "last_name": "Thomas",
+    "email": "customer_118@ecommerce.fr",
+    "signup_date": "2026-04-27",
+    "city": "Paris"
+  },
+  {
+    "customer_id": 119,
+    "first_name": "Yannick",
+    "last_name": "Simon",
+    "email": "customer_119@ecommerce.fr",
+    "signup_date": "2025-01-22",
+    "city": "Strasbourg"
+  },
+  {
+    "customer_id": 120,
+    "first_name": "Luc",
+    "last_name": "Michel",
+    "email": "customer_120@ecommerce.fr",
+    "signup_date": "2025-04-06",
+    "city": "Rennes"
+  }
+]

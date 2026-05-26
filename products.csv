@@ -1,0 +1,36 @@
+product_id,product_name,category,price
+1,Casque Bluetooth,Électronique,193.34
+2,Batterie externe,Électronique,70.33
+3,Câble USB-C,Électronique,146.05
+4,Souris sans fil,Électronique,35.9
+5,Clavier mécanique,Électronique,130.49
+6,Webcam HD,Électronique,198.74
+7,Adaptateur HDMI,Électronique,187.26
+8,T-shirt coton,Vêtements,133.88
+9,Jean classique,Vêtements,78.17
+10,Hoodie,Vêtements,125.55
+11,Chaussettes,Vêtements,126.82
+12,Bonnet,Vêtements,68.29
+13,Écharpe,Vêtements,144.86
+14,Veste imperméable,Vêtements,93.38
+15,Lampe de bureau,Maison,30.31
+16,Coussin,Maison,160.21
+17,Tapis,Maison,20.82
+18,Tableau,Maison,16.87
+19,Étagère,Maison,186.44
+20,Miroir,Maison,91.59
+21,Cadre photo,Maison,80.41
+22,Tapis de yoga,Sports,102.77
+23,Bouteille réutilisable,Sports,186.17
+24,Gants de sport,Sports,117.07
+25,Bande élastique,Sports,171.09
+26,Corde à sauter,Sports,21.77
+27,Balle de fitness,Sports,58.51
+28,Bandeau,Sports,23.98
+29,Crème hydratante,Beauté,198.63
+30,Savon naturel,Beauté,189.26
+31,Shampooing,Beauté,193.78
+32,Masque facial,Beauté,155.84
+33,Déodorant,Beauté,112.23
+34,Brosse à dents,Beauté,193.2
+35,Gel douche,Beauté,94.06

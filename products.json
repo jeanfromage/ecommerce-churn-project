@@ -1,0 +1,212 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Casque Bluetooth",
+    "category": "Électronique",
+    "price": 193.34
+  },
+  {
+    "product_id": 2,
+    "product_name": "Batterie externe",
+    "category": "Électronique",
+    "price": 70.33
+  },
+  {
+    "product_id": 3,
+    "product_name": "Câble USB-C",
+    "category": "Électronique",
+    "price": 146.05
+  },
+  {
+    "product_id": 4,
+    "product_name": "Souris sans fil",
+    "category": "Électronique",
+    "price": 35.9
+  },
+  {
+    "product_id": 5,
+    "product_name": "Clavier mécanique",
+    "category": "Électronique",
+    "price": 130.49
+  },
+  {
+    "product_id": 6,
+    "product_name": "Webcam HD",
+    "category": "Électronique",
+    "price": 198.74
+  },
+  {
+    "product_id": 7,
+    "product_name": "Adaptateur HDMI",
+    "category": "Électronique",
+    "price": 187.26
+  },
+  {
+    "product_id": 8,
+    "product_name": "T-shirt coton",
+    "category": "Vêtements",
+    "price": 133.88
+  },
+  {
+    "product_id": 9,
+    "product_name": "Jean classique",
+    "category": "Vêtements",
+    "price": 78.17
+  },
+  {
+    "product_id": 10,
+    "product_name": "Hoodie",
+    "category": "Vêtements",
+    "price": 125.55
+  },
+  {
+    "product_id": 11,
+    "product_name": "Chaussettes",
+    "category": "Vêtements",
+    "price": 126.82
+  },
+  {
+    "product_id": 12,
+    "product_name": "Bonnet",
+    "category": "Vêtements",
+    "price": 68.29
+  },
+  {
+    "product_id": 13,
+    "product_name": "Écharpe",
+    "category": "Vêtements",
+    "price": 144.86
+  },
+  {
+    "product_id": 14,
+    "product_name": "Veste imperméable",
+    "category": "Vêtements",
+    "price": 93.38
+  },
+  {
+    "product_id": 15,
+    "product_name": "Lampe de bureau",
+    "category": "Maison",
+    "price": 30.31
+  },
+  {
+    "product_id": 16,
+    "product_name": "Coussin",
+    "category": "Maison",
+    "price": 160.21
+  },
+  {
+    "product_id": 17,
+    "product_name": "Tapis",
+    "category": "Maison",
+    "price": 20.82
+  },
+  {
+    "product_id": 18,
+    "product_name": "Tableau",
+    "category": "Maison",
+    "price": 16.87
+  },
+  {
+    "product_id": 19,
+    "product_name": "Étagère",
+    "category": "Maison",
+    "price": 186.44
+  },
+  {
+    "product_id": 20,
+    "product_name": "Miroir",
+    "category": "Maison",
+    "price": 91.59
+  },
+  {
+    "product_id": 21,
+    "product_name": "Cadre photo",
+    "category": "Maison",
+    "price": 80.41
+  },
+  {
+    "product_id": 22,
+    "product_name": "Tapis de yoga",
+    "category": "Sports",
+    "price": 102.77
+  },
+  {
+    "product_id": 23,
+    "product_name": "Bouteille réutilisable",
+    "category": "Sports",
+    "price": 186.17
+  },
+  {
+    "product_id": 24,
+    "product_name": "Gants de sport",
+    "category": "Sports",
+    "price": 117.07
+  },
+  {
+    "product_id": 25,
+    "product_name": "Bande élastique",
+    "category": "Sports",
+    "price": 171.09
+  },
+  {
+    "product_id": 26,
+    "product_name": "Corde à sauter",
+    "category": "Sports",
+    "price": 21.77
+  },
+  {
+    "product_id": 27,
+    "product_name": "Balle de fitness",
+    "category": "Sports",
+    "price": 58.51
+  },
+  {
+    "product_id": 28,
+    "product_name": "Bandeau",
+    "category": "Sports",
+    "price": 23.98
+  },
+  {
+    "product_id": 29,
+    "product_name": "Crème hydratante",
+    "category": "Beauté",
+    "price": 198.63
+  },
+  {
+    "product_id": 30,
+    "product_name": "Savon naturel",
+    "category": "Beauté",
+    "price": 189.26
+  },
+  {
+    "product_id": 31,
+    "product_name": "Shampooing",
+    "category": "Beauté",
+    "price": 193.78
+  },
+  {
+    "product_id": 32,
+    "product_name": "Masque facial",
+    "category": "Beauté",
+    "price": 155.84
+  },
+  {
+    "product_id": 33,
+    "product_name": "Déodorant",
+    "category": "Beauté",
+    "price": 112.23
+  },
+  {
+    "product_id": 34,
+    "product_name": "Brosse à dents",
+    "category": "Beauté",
+    "price": 193.2
+  },
+  {
+    "product_id": 35,
+    "product_name": "Gel douche",
+    "category": "Beauté",
+    "price": 94.06
+  }
+]
