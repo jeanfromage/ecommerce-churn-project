@@ -131,14 +131,14 @@ def generate_order_items(orders, products, orders_per_item_range=(1, 5)):
 
 def export_to_json(data, filename):
     """Exporter données en JSON"""
-    with open(f'/home/claude/ecommerce-churn-project/{filename}', 'w') as f:
+    with open(filename, 'w') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     print(f"✓ {filename} généré ({len(data)} entrées)")
 
 def export_to_csv(data, filename):
     """Exporter données en CSV"""
     df = pd.DataFrame(data)
-    df.to_csv(f'/home/claude/ecommerce-churn-project/{filename}', index=False)
+    df.to_csv(filename, index=False)
     print(f"✓ {filename} généré ({len(data)} entrées)")
 
 # ==================== MAIN ====================

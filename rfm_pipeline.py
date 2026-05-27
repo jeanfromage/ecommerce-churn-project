@@ -65,14 +65,15 @@ def calculate_rfm(df):
     """Calculer Recency, Frequency, Monetary"""
     
     # Recency : jours depuis dernière commande
-    today = datetime.now().date()
-    df['recency'] = (today - df['last_order_date'].dt.date).dt.days
+    today = datetime.now()
+    df['last_order_date'] = pd.to_datetime(df['last_order_date'])
+    df['recency'] = (today - df['last_order_date']).dt.days
     
     # Frequency : déjà dans les données
     df['frequency'] = df['frequency'].astype(int)
     
     # Monetary : déjà dans les données
-    df['monetary'] = df['monetary'].round(2)
+    df['monetary'] = df['monetary'].astype(float).round(2)
     
     return df
 
@@ -263,7 +264,7 @@ def export_results(df):
     """Exporter résultats"""
     
     # Sauvegarder en CSV
-    output_file = '/home/claude/ecommerce-churn-project/rfm_results.csv'
+    output_file = 'rfm_results.csv'
     df_export = df[[
         'customer_id', 'first_name', 'last_name', 'email', 'city',
         'recency', 'frequency', 'monetary',

@@ -1,0 +1,121 @@
+customer_id,first_name,last_name,email,city,recency,frequency,monetary,rfm_score,segment,churn_risk
+17,Emma,Dupont,customer_17@ecommerce.fr,Lille,0,9,5203.65,100,Champion,Low
+21,Bob,Roux,customer_21@ecommerce.fr,Marseille,10,8,6033.51,100,Champion,Low
+39,Raphaël,Petit,customer_39@ecommerce.fr,Le Havre,21,10,10041.59,100,Champion,Low
+32,Quentin,Thomas,customer_32@ecommerce.fr,Marseille,20,7,5276.65,100,Champion,Low
+42,Isabelle,Laurent,customer_42@ecommerce.fr,Rennes,30,9,4335.46,100,Champion,Low
+103,Sophie,Laurent,customer_103@ecommerce.fr,Toulouse,25,7,4438.2,100,Champion,Low
+67,Nicolas,Durand,customer_67@ecommerce.fr,Reims,5,6,4436.74,100,Champion,Low
+69,Emma,Thomas,customer_69@ecommerce.fr,Nice,8,8,4053.62,100,Champion,Low
+72,Wenya,Lefebvre,customer_72@ecommerce.fr,Reims,23,7,3657.32,94,Champion,Low
+26,Hélène,Thomas,customer_26@ecommerce.fr,Paris,0,6,4890.41,94,Champion,Low
+54,Raphaël,Michel,customer_54@ecommerce.fr,Toulon,25,5,4258.75,94,Champion,Low
+94,Hélène,Bertrand,customer_94@ecommerce.fr,Paris,48,8,4053.63,92,Champion,Low
+120,Karine,David,customer_120@ecommerce.fr,Reims,46,6,4480.72,92,Champion,Low
+19,Emma,Roux,customer_19@ecommerce.fr,Lyon,46,9,4833.45,92,Champion,Low
+33,Wenya,Roux,customer_33@ecommerce.fr,Le Havre,1,6,3216.76,88,Champion,Low
+40,Hélène,Roux,customer_40@ecommerce.fr,Bordeaux,10,6,2561.68,88,Champion,Low
+65,Wenya,Lefebvre,customer_65@ecommerce.fr,Strasbourg,25,5,3139.01,88,Champion,Low
+82,Gérard,Roux,customer_82@ecommerce.fr,Toulon,44,5,4103.97,86,Champion,Low
+6,Jean,Garcia,customer_6@ecommerce.fr,Nantes,46,7,3730.65,86,Champion,Low
+34,Nicolas,Michel,customer_34@ecommerce.fr,Reims,88,8,5372.27,84,Champion,Low
+20,Université,Moreau,customer_20@ecommerce.fr,Strasbourg,92,7,4066.44,84,Champion,Medium
+53,David,Garcia,customer_53@ecommerce.fr,Toulon,73,9,8829.18,84,Champion,Low
+106,Xavier,Laurent,customer_106@ecommerce.fr,Lille,94,7,5559.38,84,Champion,Medium
+52,Clara,Moreau,customer_52@ecommerce.fr,Toulouse,16,5,2272.35,82,Champion,Low
+4,Emma,Dupont,customer_4@ecommerce.fr,Paris,34,4,3298.36,82,Champion,Low
+25,Luc,Morel,customer_25@ecommerce.fr,Strasbourg,8,5,2394.25,82,Champion,Low
+59,Wenya,Thomas,customer_59@ecommerce.fr,Toulon,41,5,3100.41,80,Champion,Low
+38,Thomas,Bernard,customer_38@ecommerce.fr,Rennes,36,4,4148.22,80,Champion,Low
+71,Zoé,Laurent,customer_71@ecommerce.fr,Bordeaux,55,5,3860.85,80,Champion,Low
+10,Jean,Simon,customer_10@ecommerce.fr,Nice,139,7,3843.07,78,Loyal,Medium
+79,Zoé,Lefevre,customer_79@ecommerce.fr,Nantes,171,7,4088.59,76,Loyal,Medium
+29,Patricia,Roux,customer_29@ecommerce.fr,Marseille,149,7,4862.68,76,Loyal,Medium
+35,Emma,Garcia,customer_35@ecommerce.fr,Marseille,12,3,2860.11,76,Loyal,Low
+43,Xavier,Petit,customer_43@ecommerce.fr,Nantes,173,6,5398.76,76,Loyal,Medium
+1,Sophie,Michel,customer_1@ecommerce.fr,Toulouse,28,4,2079.05,76,Loyal,Low
+81,Zoé,Simon,customer_81@ecommerce.fr,Nantes,42,5,2739.15,74,Loyal,Low
+51,Raphaël,Robert,customer_51@ecommerce.fr,Toulon,56,4,3190.66,74,Loyal,Low
+12,Patricia,Bertrand,customer_12@ecommerce.fr,Marseille,58,5,3264.19,74,Loyal,Low
+115,Université,Lefebvre,customer_115@ecommerce.fr,Toulouse,64,5,2710.63,74,Loyal,Low
+92,Yannick,Fournier,customer_92@ecommerce.fr,Marseille,122,5,2916.74,72,Loyal,Medium
+95,Xavier,Robert,customer_95@ecommerce.fr,Nantes,85,5,3045.88,72,Loyal,Low
+89,Nicolas,Martin,customer_89@ecommerce.fr,Nantes,102,5,3626.07,72,Loyal,Medium
+45,David,Martin,customer_45@ecommerce.fr,Bordeaux,175,7,3440.94,70,Loyal,Medium
+48,Thomas,Vincent,customer_48@ecommerce.fr,Paris,227,7,4033.91,70,Loyal,High
+66,David,David,customer_66@ecommerce.fr,Strasbourg,194,5,4965.31,70,Loyal,High
+15,Alice,Laurent,customer_15@ecommerce.fr,Strasbourg,58,4,2553.84,68,Loyal,Low
+11,Alice,Garcia,customer_11@ecommerce.fr,Toulouse,64,5,2735.71,68,Loyal,Low
+44,Marie,Moreau,customer_44@ecommerce.fr,Strasbourg,46,4,2694.65,68,Loyal,Low
+98,Université,Fournier,customer_98@ecommerce.fr,Nantes,58,3,2699.47,68,Loyal,Low
+78,Nicolas,Bertrand,customer_78@ecommerce.fr,Saint-Étienne,43,5,2017.91,68,Loyal,Low
+87,Hélène,Roux,customer_87@ecommerce.fr,Paris,111,5,2849.55,66,Loyal,Medium
+61,Xavier,Michel,customer_61@ecommerce.fr,Marseille,78,5,2377.26,66,Loyal,Low
+50,Karine,Lefevre,customer_50@ecommerce.fr,Saint-Étienne,121,4,3253.5,66,Loyal,Medium
+90,Olivier,Michel,customer_90@ecommerce.fr,Marseille,7,3,758.59,64,Loyal,Low
+56,Luc,Laurent,customer_56@ecommerce.fr,Nice,171,5,3378.23,64,Loyal,Medium
+55,Victor,Laurent,customer_55@ecommerce.fr,Strasbourg,64,3,2472.21,62,Loyal,Low
+112,Clara,Vincent,customer_112@ecommerce.fr,Lyon,321,5,4716.31,62,Loyal,High
+91,Sophie,Garcia,customer_91@ecommerce.fr,Lille,126,3,2652.65,60,Loyal,Medium
+9,Nicolas,Bertrand,customer_9@ecommerce.fr,Toulouse,93,3,3148.25,60,Loyal,Medium
+116,Hélène,Moreau,customer_116@ecommerce.fr,Saint-Étienne,203,5,2346.97,58,Potential,High
+14,Yannick,Garcia,customer_14@ecommerce.fr,Paris,221,4,4012.76,58,Potential,High
+30,Raphaël,Michel,customer_30@ecommerce.fr,Lyon,163,6,2166.69,58,Potential,Medium
+99,Nicolas,Dupont,customer_99@ecommerce.fr,Marseille,24,2,1824.96,58,Potential,Low
+37,Olivier,Lefevre,customer_37@ecommerce.fr,Strasbourg,23,2,1790.23,58,Potential,Low
+85,Luc,Vincent,customer_85@ecommerce.fr,Rennes,149,4,3027.41,58,Potential,Medium
+63,Patricia,Bertrand,customer_63@ecommerce.fr,Marseille,212,4,3394.26,58,Potential,High
+62,Alice,Garcia,customer_62@ecommerce.fr,Reims,6,2,1346.9,58,Potential,Low
+102,Victor,Vincent,customer_102@ecommerce.fr,Strasbourg,171,5,2376.5,58,Potential,Medium
+108,Thomas,Moreau,customer_108@ecommerce.fr,Rennes,285,5,3223.84,56,Potential,High
+22,Quentin,Vincent,customer_22@ecommerce.fr,Bordeaux,41,3,1642.43,56,Potential,Low
+28,Jean,Morel,customer_28@ecommerce.fr,Saint-Étienne,49,3,1581.54,56,Potential,Low
+75,Isabelle,David,customer_75@ecommerce.fr,Paris,41,3,1425.55,56,Potential,Low
+23,Zoé,Fournier,customer_23@ecommerce.fr,Saint-Étienne,82,3,2169.91,54,Potential,Low
+114,Hélène,Martin,customer_114@ecommerce.fr,Toulon,242,4,2487.86,52,Potential,High
+118,Jean,Morel,customer_118@ecommerce.fr,Lille,172,4,2163.52,52,Potential,Medium
+3,Xavier,Simon,customer_3@ecommerce.fr,Reims,17,2,992.18,52,Potential,Low
+60,Zoé,Garcia,customer_60@ecommerce.fr,Saint-Étienne,42,2,1610.04,50,Potential,Low
+100,Jean,Garcia,customer_100@ecommerce.fr,Paris,421,4,2923.36,50,Potential,High
+73,Marie,Simon,customer_73@ecommerce.fr,Bordeaux,104,3,1499.4,48,Potential,Medium
+86,Jean,Dupont,customer_86@ecommerce.fr,Le Havre,143,3,1259.25,48,Potential,Medium
+76,Sophie,Fournier,customer_76@ecommerce.fr,Bordeaux,90,4,927.39,48,Potential,Low
+74,Thomas,Thomas,customer_74@ecommerce.fr,Paris,68,3,1442.59,48,Potential,Low
+7,Karine,Fournier,customer_7@ecommerce.fr,Paris,96,3,1943.62,48,Potential,Medium
+110,Victor,Bertrand,customer_110@ecommerce.fr,Le Havre,102,2,1512.73,48,Potential,Medium
+41,Marie,Petit,customer_41@ecommerce.fr,Strasbourg,166,3,2345.99,46,Potential,Medium
+2,Isabelle,Lefebvre,customer_2@ecommerce.fr,Rennes,161,3,2852.87,46,Potential,Medium
+83,Sophie,Fournier,customer_83@ecommerce.fr,Lyon,179,3,2047.6,46,Potential,Medium
+24,Université,Bernard,customer_24@ecommerce.fr,Bordeaux,54,1,30.78,44,Potential,Low
+105,Yannick,Bernard,customer_105@ecommerce.fr,Saint-Étienne,65,2,609.44,44,Potential,Low
+113,Patricia,Dupont,customer_113@ecommerce.fr,Paris,85,2,1024.94,42,Potential,Low
+107,Raphaël,Lefebvre,customer_107@ecommerce.fr,Toulon,144,2,1120.4,42,Potential,Medium
+77,Zoé,David,customer_77@ecommerce.fr,Le Havre,177,3,1949.07,40,Potential,Medium
+104,Raphaël,Robert,customer_104@ecommerce.fr,Toulouse,357,3,1828.96,38,At Risk,High
+96,Patricia,Vincent,customer_96@ecommerce.fr,Paris,455,3,1446.97,38,At Risk,High
+84,Nicolas,Roux,customer_84@ecommerce.fr,Nantes,265,3,1831.7,38,At Risk,High
+58,Isabelle,Morel,customer_58@ecommerce.fr,Nantes,341,4,1870.97,38,At Risk,High
+13,Nicolas,Robert,customer_13@ecommerce.fr,Lille,324,3,2547.59,38,At Risk,High
+36,Clara,Bernard,customer_36@ecommerce.fr,Strasbourg,129,2,513.32,36,At Risk,Medium
+5,Jean,Robert,customer_5@ecommerce.fr,Le Havre,73,2,1300.63,36,At Risk,Low
+119,David,David,customer_119@ecommerce.fr,Marseille,569,2,1643.77,32,At Risk,High
+64,David,Durand,customer_64@ecommerce.fr,Toulouse,485,3,1999.77,32,At Risk,High
+80,Yannick,Petit,customer_80@ecommerce.fr,Paris,425,3,1669.79,32,At Risk,High
+111,Emma,Petit,customer_111@ecommerce.fr,Nice,615,2,1324.94,32,At Risk,High
+31,Alice,Laurent,customer_31@ecommerce.fr,Lyon,380,3,1807.95,32,At Risk,High
+46,Hélène,Martin,customer_46@ecommerce.fr,Saint-Étienne,245,1,773.82,28,At Risk,High
+16,Luc,Bertrand,customer_16@ecommerce.fr,Toulouse,247,1,1155.41,28,At Risk,High
+27,Raphaël,Lefevre,customer_27@ecommerce.fr,Paris,148,2,1007.65,28,At Risk,Medium
+49,Nicolas,Martin,customer_49@ecommerce.fr,Paris,196,2,1277.71,28,At Risk,High
+57,Alice,Durand,customer_57@ecommerce.fr,Nantes,220,2,855.66,28,At Risk,High
+117,Alice,Thomas,customer_117@ecommerce.fr,Lyon,637,2,1086.08,26,At Risk,High
+88,Raphaël,Bernard,customer_88@ecommerce.fr,Marseille,257,2,1535.71,26,At Risk,High
+93,Isabelle,Thomas,customer_93@ecommerce.fr,Saint-Étienne,276,2,1401.87,26,At Risk,High
+47,Patricia,Michel,customer_47@ecommerce.fr,Lyon,375,2,1120.23,20,At Risk,High
+18,Gérard,Simon,customer_18@ecommerce.fr,Strasbourg,634,2,863.84,20,At Risk,High
+8,Hélène,Simon,customer_8@ecommerce.fr,Lyon,541,1,679.64,20,At Risk,High
+70,Alice,Simon,customer_70@ecommerce.fr,Bordeaux,482,2,682.05,20,At Risk,High
+68,Clara,Lefebvre,customer_68@ecommerce.fr,Lyon,325,2,917.85,20,At Risk,High
+97,Raphaël,Lefevre,customer_97@ecommerce.fr,Saint-Étienne,563,1,105.85,20,At Risk,High
+101,Karine,Bernard,customer_101@ecommerce.fr,Paris,439,1,1215.79,20,At Risk,High
+109,Emma,Vincent,customer_109@ecommerce.fr,Bordeaux,597,1,758.2,20,At Risk,High

@@ -385,4 +385,4 @@ def update_dashboard(segment, churn, score):
 if __name__ == '__main__':
     print("🚀 Démarrage du dashboard...")
     print("📊 Accéder à http://localhost:8050")
-    app.run_server(debug=True, port=8050)
+    app.run(debug=True, port=8050)
